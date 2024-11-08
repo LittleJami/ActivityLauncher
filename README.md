@@ -171,6 +171,12 @@ k. (11) 法律法规规定的其他情形。
 
 25、读取设置权限，查询已创建的快捷方式。
 
+26、接入友盟统计SDK，SDK名称：友盟+移动统计SDK 开发者:友盟同欣（北京）科技有限公司 隐私链接：https://www.umeng.com/page/policy。
+
+27、接入抖音SDK，SDK名称：抖音SDK（安卓版） 开发者:北京微播视界科技有限公司 隐私链接：https://open.douyin.com/platform/micro-app/live/open?client;
+
+28、接入穿山甲广告SDK，SDK名称：穿山甲广告SDK-Android 开发者:北京巨量引擎网络技术有限公司 隐私链接：https://www.csjplatform.com/privacy
+
 三、我们如何使用 本地存储和同类技术
 
 比如我们会存储你选择背景色到你本地，用来背景色记忆化。
