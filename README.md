@@ -79,19 +79,19 @@ k. (11) 法律法规规定的其他情形。
 
 二、相关权限和使用用途以及第三方sdk及使用用途
 
-1、 读写存储卡内容权限 是为了用来创建临时文件对Apk文件进行复制解压缩。
+1、读写存储卡内容权限 是为了用来创建临时文件对Apk文件进行复制解压缩。
 
-2、 读取已安装软件列表权限（"android.permission.QUERY_ALL_PACKAGES"）是为了获取已安装应用的信息，例如APP图标、名称、版本信息、activity信息等等，这是必要权限，必须获取此权限APP才能正常运行。
+2、读取已安装软件列表权限（"android.permission.QUERY_ALL_PACKAGES"）是为了获取已安装应用的信息，例如APP图标、名称、版本信息、activity信息等等，这是必要权限，必须获取此权限APP才能正常运行。
 
-3、 集成 友盟统计 使用目的：数据统计 搜集类型:设备信息（MAC地址）、AndroidID 、软件安卓列表行为 说明：隐私政策链接https://www.umeng.com/page/policy；用户获取设备的IMEI,通过IMEI对用户进行唯一标识，用于数据统计分析、以便为你提供精细化服务。
+3、集成 友盟统计 使用目的：数据统计 搜集类型:设备信息（MAC地址）、AndroidID 、软件安卓列表行为 说明：隐私政策链接https://www.umeng.com/page/policy；用户获取设备的IMEI,通过IMEI对用户进行唯一标识，用于数据统计分析、以便为你提供精细化服务。
 
-4、 获取【已安装APP信息】权限是为了实现显示已安装app信息功能
+4、获取【已安装APP信息】权限是为了实现显示已安装app信息功能
 
-5、 集成穿山甲广告gromoresdk 使用目的：广告更好、更精确的展示 说明影似政策链接https://www.csjplatform.com/terms/gromoresdk-privacy
+5、集成穿山甲广告gromoresdk 使用目的：广告更好、更精确的展示 说明影似政策链接https://www.csjplatform.com/terms/gromoresdk-privacy
  
-6、 收集设备MAC地址 目的是为了友盟统计更精确。
+6、收集设备MAC地址 目的是为了友盟统计更精确。
 
-7、获取软件安装列表 目的是实现显示已安装app信息功能。。
+7、穿山甲广告SDK获取软件安装列表权限目的是根据客户端属性精准定位用户。
 
 8、收集设备序列号等的目的 是为了友盟统计更精确
 
